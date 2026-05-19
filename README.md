@@ -139,7 +139,3 @@ Built a Retrieval-Augmented Generation (RAG) based AI assistant using LangChain,
 - Built API-driven chatbot workflows for document-based question answering.
 
 ---
-
-## License
-
-This project is available under the MIT License.
